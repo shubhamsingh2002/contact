@@ -243,6 +243,10 @@
     flex-direction: column;
     gap: 10px;
   }
+  .wrap_info p a{
+    text-decoration: none;
+    color: #fff;
+  }
   
   .contact_wrap .wrap_info h3 {
     font-size: max(22px, 1.65 * var(--font-size));
