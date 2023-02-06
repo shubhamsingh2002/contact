@@ -243,7 +243,7 @@
     flex-direction: column;
     gap: 10px;
   }
-  .wrap_info p a{
+ .wrap_info p a{
     text-decoration: none;
     color: #fff;
   }
